@@ -6,3 +6,6 @@ earthquake-website
 ==============
 
 Earthquake Hazards Program website
+
+
+We really appreciate any contribution.
